@@ -1,0 +1,16 @@
+{
+  "name": "nexus-weather-api",
+  "version": "0.1.0",
+  "private": true,
+  "description": "x402-per-call weather data for autonomous agents - USDC on Base per request",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "tail": "wrangler tail"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "latest",
+    "typescript": "^5.6.0",
+    "wrangler": "^4.0.0"
+  }
+}

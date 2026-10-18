@@ -1,0 +1,9 @@
+name = "nexus-weather-api"
+main = "src/worker.ts"
+compatibility_date = "2026-09-01"
+account_id = "f8b8531965743d9f5788857650ad2420"
+
+[vars]
+PAY_TO = "0x1E9e1318b677c31EC7669B442A57a182c5FA7C18"
+NETWORK = "base"
+PRICE_CALL = "10000"
